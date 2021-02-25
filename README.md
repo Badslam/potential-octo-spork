@@ -1,2 +1,2 @@
 # potential-octo-spork
-misc.
+This is my first git repository, wish me luck!
